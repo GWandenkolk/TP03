@@ -69,8 +69,3 @@ public class Pessoa {
         return idade;
     }
 }
-
-/**
- * A classe FormPessoa é uma interface gráfica que permite cadastrar e mostrar informações de uma pessoa.
- * A interface usa componentes Swing como JTextField, JComboBox e JButton.
- */
